@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.counter_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.counter_value {
+  font-size: 4rem;
+  margin: 2rem;
+}
